@@ -6,4 +6,5 @@ The process of converting analog signals into digital form is known as digitizat
 Digital signals offer advantages like ease of storage, efficient transmission, and the ability to apply various digital processing techniques such as compression, encryption, and error correction. They have become the foundation of modern information technology and communication systems.
 
 ![a663aaca7d8d1b18d66cf16ab4c44021](https://github.com/Besbol100/College-Projects/assets/113455518/64aa200e-226b-424f-82a6-608e8343db77)
+
 ![1a1b319739c07106dc34fa3d998adedb](https://github.com/Besbol100/College-Projects/assets/113455518/a0055886-1fe6-416d-99ce-3fd24d8b86bf)
