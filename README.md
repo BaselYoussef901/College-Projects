@@ -1,5 +1,3 @@
-# College-Projects
-
-This repo contain the most important [Tasks, Assignments and Projects] that done in my college phase
-
-All Tasks and Projects are from my professors at Cairo University.
+# College Stuff
+This repo contains all my work at my college period of Computer Science - Cairo University
+This has the main IT Department Tasks, Assignments and Projects achieveing the highest clearity of implementation and applying a clean code for understanding and learning. 
